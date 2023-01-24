@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/Ethernet_PIC32_SPI_POLLING.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>132240</length>                 
+      <used>24424</used>                     
+      <free>107816</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>33280</length>                 
+      <used>19800</used>                     
+      <free>13480</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
